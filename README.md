@@ -71,7 +71,7 @@ Dies ist eine H1-Überschrift.
 
 ## 4. Links
 
-[Besuche OpenAI](https://www.openai.com)
+[Google](https://cdn-useast1.kapwing.com/static/templates/knee-surgery-tomorrow-meme-template-KAI3QQ5SCkNXSKMs-full.jpg)
 
 ## 5. Bilder
 
