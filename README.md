@@ -30,3 +30,66 @@ git push                                # push all new commits to remote reposit
 git clone <url>                         # clone remote repository in folder
 
 
+
+
+
+
+
+
+
+
+
+
+
+# Beispiel Markdown Datei
+
+## 1. Überschriften
+
+Dies ist eine H1-Überschrift.
+### H3-Überschrift
+#### H4-Überschrift
+##### H5-Überschrift
+
+## 2. Text-Formatierungen
+
+**Fetter Text**  
+*Kursiver Text*  
+***Fett und kursiv***  
+~~Durchgestrichen~~
+
+## 3. Listen
+
+### Ungeordnete Liste
+- Punkt 1
+  - Unterpunkt 1
+- Punkt 2
+
+### Geordnete Liste
+1. Erster Punkt
+   1. Unterpunkt 1
+2. Zweiter Punkt
+
+## 4. Links
+
+[Besuche OpenAI](https://www.openai.com)
+
+## 5. Bilder
+
+![Beispielbild](https://via.placeholder.com/150)
+
+## 6. Zitate
+
+> Dies ist ein Blockzitat. Zitate sind gut für das Hervorheben wichtiger Punkte.
+
+## 7. Code
+
+### Inline-Code
+Hier ein Beispiel für Inline-Code: `print("Hallo Welt")`
+
+### Codeblock
+```python
+def beispiel():
+    print("Dies ist ein Python Codeblock")
+
+
+
