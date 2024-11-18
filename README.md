@@ -75,7 +75,7 @@ Dies ist eine H1-Überschrift.
 
 ## 5. Bilder
 
-![Beispielbild](https://via.placeholder.com/150)
+![Beispielbild](https://cdn-useast1.kapwing.com/static/templates/knee-surgery-tomorrow-meme-template-KAI3QQ5SCkNXSKMs-full.jpg/150)
 
 ## 6. Zitate
 
