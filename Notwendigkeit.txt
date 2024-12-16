@@ -1,0 +1,21 @@
+Notwendigkeit von Passwörter - Was sind sichere Passwörter?
+Es wird empfohlen, ein langes, komplexes Passwort zu erstellen.
+Mindestens acht Zeichen lang und mit mehreren Sonderzeichen, Grossbuchstaben, Kleinbuchstaben und Zahlen.
+
+Warum Passwörter?
+Es dient zur Identifizierung eines Kontos, mit einem Schlüssel, welcher nur der Benutzer / Ersteller weiss.
+
+
+Grund für den Einsatz von Passwörter: Weshalb werden Passwörter eingesetzt?
+Um sich anzumelden.
+
+Was wird geschützt?
+Accounts, Konten
+Was wird mit Passwörter geschützt?
+Der Zugriff kann nur von gewollten Personen gemacht werden.
+Welche Arten von Informationen werden mit Passwörter geschützt, welche sind frei verfügbar?
+Private, Persönliche Daten werden geschützt.
+Um frei verfügbare Daten einer Person zuzugreifen braucht man kein Passwort, den dies wäre eben auch Privat.
+
+Was ist ein sicheres Passwort?
+Mindestens acht Zeichen lang und mit mehreren Sonderzeichen, Grossbuchstaben, Kleinbuchstaben und Zahlen.

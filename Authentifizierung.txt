@@ -1,0 +1,10 @@
+Ordnen Sie die folgenden Aussagen die Begriffe Authentifizierung und Autorisierung zu. Nutzen Sie dafür dieses MS Forms Quiz.
+
+"Peter hat das Recht auf den Ordner Geschäftsprozesse zuzugreifen."
+"Martina sperrt ihren Bildschirm vor der Kaffeepause und muss ihr Passwort eingeben, wenn Sie zurückkommt."
+"Standard User haben keinen Zugriff auf die Server-Management-Konsole."
+"Standardmässig kann in Linux Dateisystemen für jede Datei oder Ordner ein Benutzer, eine Gruppe, sowie die Zugriffsberechtigungen Lesen, Schreiben und Ausführen definiert werden."
+RADIUS Server
+"Nur Lehrerpersonen können in MS Teams einer Gruppe Lernende hinzufügen oder entfernen."
+"Permission denied."
+"Für das Online-Banking benötige ich mein Benutzername, mein Passwort und das Foto-TAN App."

@@ -1,0 +1,5 @@
+Die Multi Faktor Authentifizierung dient zur Sicherheit eines Accounts.
+Dabei wird ein zweites Gerät gebraucht, welches einen Code oder ähnliches zeigt, welchen man beim Login eingeben musst.
+Dies bestätigt, dass man der echte Inhaber des Kontos ist.
+2FA = zwei Faktor Authentifizierung
+3FA = drei Faktor Authentifizierung
