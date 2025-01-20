@@ -19,6 +19,4 @@
 5. **Erste Synchronisierung**  
    - Wenn Sie die App auf mehreren Geräten verwenden möchten, synchronisieren Sie Ihre Daten, indem Sie auf „Synchronisieren“ klicken.
 
-> **Hinweis**: Halten Sie Ihre Zugangsdaten sicher und aktivieren Sie, wenn möglich, die Zwei-Faktor-Authentifizierung für zusätzlichen Schutz. 
 
-Fertig! Sie haben SecureSafe erfolgreich installiert und eingerichtet.
