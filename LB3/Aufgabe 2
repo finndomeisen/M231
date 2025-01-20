@@ -1,23 +1,30 @@
-### Entscheid für ein Passwortverwaltungsprogramm
+**Entscheid: Nutzung von SecureSafe als Passwortverwaltungsprogramm**  
 
-#### Ausgewähltes Programm: **Apple iCloud Schlüsselbund**  
-**Begründung der Wahl:**  
-Der **Apple iCloud Schlüsselbund** wurde aufgrund seiner nahtlosen Integration in das Apple-Ökosystem und seiner Benutzerfreundlichkeit für macOS- und iOS-Nutzer ausgewählt. Im Vergleich zu Drittanbietersoftware wie **Dashlane** bietet der iCloud Schlüsselbund eine kostenlose und sichere Möglichkeit, Passwörter, Kreditkarteninformationen und andere sensible Daten zu speichern und automatisch auszufüllen.  
+### **Vergleich mit einer anderen Software: Dashlane**  
 
-**Vergleich mit Dashlane:**  
-- **Vorteile von iCloud Schlüsselbund:**  
-  - Kostenfrei und direkt in das Apple-Ökosystem integriert.  
-  - Nahtlose Synchronisation zwischen Apple-Geräten (iPhone, iPad, Mac).  
-  - Automatisches Ausfüllen von Passwörtern in Safari und Apps.  
-  - Verwendung von Face ID/Touch ID für zusätzliche Sicherheit.  
-- **Nachteile von iCloud Schlüsselbund:**  
-  - Funktioniert ausschließlich auf Apple-Geräten (nicht plattformübergreifend).  
-  - Weniger erweiterte Funktionen, z. B. keine Dark-Web-Überwachung oder Sicherheitsberichte.  
-  - Keine plattformübergreifende Unterstützung für Android oder Windows.  
+#### **Vorteile von SecureSafe:**  
+1. **Sicherheitsniveau:** SecureSafe nutzt eine hochgradige Verschlüsselung (AES-256) und speichert die Daten in der Schweiz, was strenge Datenschutzgesetze garantiert.  
+2. **Offline-Zugriff:** Es bietet die Möglichkeit, bestimmte Daten offline zu speichern, was in Notfällen hilfreich sein kann.  
+3. **Erweiterte Funktionen:** Neben der Passwortverwaltung können auch Dokumente sicher gespeichert werden.  
+4. **Nachlassfunktion:** Ermöglicht es, wichtige Daten im Todesfall an vertrauenswürdige Personen zu übergeben.  
+
+#### **Nachteile von SecureSafe:**  
+1. **Eingeschränkte Automatisierung:** Im Vergleich zu Dashlane fehlen Funktionen wie automatisches Ausfüllen von Formularen oder Passwortwechsel auf Knopfdruck.  
+2. **Benutzeroberfläche:** Die Bedienung ist weniger intuitiv als bei Dashlane.  
+
+#### **Vorteile von Dashlane:**  
+1. **Automatisierung:** Dashlane bietet automatisches Ausfüllen von Passwörtern und Formularen sowie einen integrierten Passwortgenerator.  
+2. **Dark-Web-Überwachung:** Dashlane informiert über kompromittierte Daten, die im Dark Web auftauchen könnten.  
+
+#### **Nachteile von Dashlane:**  
+1. **Speicherort:** Daten werden in den USA gespeichert, wo Datenschutz weniger streng ist als in der Schweiz.  
+2. **Kosten:** Dashlane ist vergleichsweise teurer als SecureSafe.  
+
+### **Begründung für SecureSafe:**  
+SecureSafe wurde gewählt, da der Fokus auf höchstmöglicher Sicherheit und Datenschutz liegt. Insbesondere für Personen oder Organisationen, die sensible Daten verwalten, ist der Schweizer Datenschutzstandard ein entscheidender Vorteil. Die Nachlassfunktion ist ein Alleinstellungsmerkmal, das bei anderen Passwortmanagern oft fehlt.  
+
+---
 
 **Dokumentation des Entscheids:**  
-Der **iCloud Schlüsselbund** wurde im Vergleich zu **Dashlane** ausgewählt, da er für Nutzer des Apple-Ökosystems eine kosteneffiziente und sichere Lösung darstellt. Obwohl er im Funktionsumfang eingeschränkt ist, reicht er für den privaten Gebrauch aus. Der Entscheid wurde schriftlich festgehalten, einschließlich der Abwägung von Vor- und Nachteilen, um die Wahl zu begründen.
+- Der Entscheid wurde schriftlich begründet und dokumentiert, wie oben beschrieben. SecureSafe erfüllt die Anforderungen besser als Dashlane in den Bereichen Sicherheit und Datenschutz, die für die Zielgruppe (z. B. Unternehmen mit hohen Sicherheitsstandards) von zentraler Bedeutung sind.
 
---- 
-
-Diese Lösung erfüllt die Anforderungen: Sie dokumentiert die Wahl, begründet den Entscheid und enthält einen Vergleich mit einer anderen Software.
