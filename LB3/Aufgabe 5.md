@@ -42,4 +42,4 @@ Ich danke Ihnen im Voraus für Ihr Entgegenkommen.
 **Freundliche Grüsse**  
 Thomas Müller  
 
-**Unterschrift:** ..........................................................................
+**Unterschrift:** Thomas M
