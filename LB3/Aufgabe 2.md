@@ -30,3 +30,6 @@ SecureSafe wurde gewählt, da der Fokus auf höchstmöglicher Sicherheit und Dat
 **Dokumentation des Entscheids:**  
 - Der Entscheid wurde schriftlich begründet und dokumentiert, wie oben beschrieben. SecureSafe erfüllt die Anforderungen besser als Dashlane in den Bereichen Sicherheit und Datenschutz, die für die Zielgruppe (z. B. Unternehmen mit hohen Sicherheitsstandards) von zentraler Bedeutung sind.
 
+
+
+
