@@ -12,6 +12,8 @@
 1. **Eingeschränkte Automatisierung:** Im Vergleich zu Dashlane fehlen Funktionen wie automatisches Ausfüllen von Formularen oder Passwortwechsel auf Knopfdruck.  
 2. **Benutzeroberfläche:** Die Bedienung ist weniger intuitiv als bei Dashlane.  
 
+---
+
 #### **Vorteile von Dashlane:**  
 1. **Automatisierung:** Dashlane bietet automatisches Ausfüllen von Passwörtern und Formularen sowie einen integrierten Passwortgenerator.  
 2. **Dark-Web-Überwachung:** Dashlane informiert über kompromittierte Daten, die im Dark Web auftauchen könnten.  
